@@ -1,10 +1,15 @@
 ##### Crear graficas, usando html en visual basic
 
 Andrea Nicte Vicente Campos
+
 Para uso de los industriales de la 092 xD
+
 chale
+
 F si no les gusta 
+
 Solo crea archivos html y los js para que se puedan mostrar graficas en html
+
 hace uso de la librería https://cdn.plot.ly/plotly-latest.min.js
 
 
